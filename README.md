@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairmodechaitanya912&label=Profile%20views&color=0e75b6&style=flat" alt="khairmodechaitanya912" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khairmodechaitanya912" alt="khairmodechaitanya912" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@c_khairmode912" target="blank"><img src="https://img.shields.io/twitter/follow/@c_khairmode912?logo=twitter&style=for-the-badge" alt="@c_khairmode912" /></a> </p>
 
