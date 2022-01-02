@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **C# .Net College Project**
 
-- 🌱 I’m currently learning **HTML , CSS , JS , C#**
+- 🌱 I’m currently learning **HTML , CSS , JS , C# , Java**
 
 - 💬 Ask me about **C , C++ & SQL**
 
