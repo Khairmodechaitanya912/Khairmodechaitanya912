@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairmodechaitanya912&label=Profile%20views&color=0e75b6&style=flat" alt="khairmodechaitanya912" /> </p>
 
-- 🔭 I’m currently working on **C# .Net College Project**
+- 🔭 I’m currently working on **College Project**
 
-- 🌱 I’m currently learning **C# & JS**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **C , C++ & SQL**
 
