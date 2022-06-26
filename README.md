@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairmodechaitanya912&label=Profile%20views&color=0e75b6&style=flat" alt="khairmodechaitanya912" /> </p>
 
-- 🔭 I’m currently working on **Multi Projects**
+- 🔭 I’m currently working on **Own Projects**
 
 - 🌱 I’m currently learning **C#,Web**
 
-- 💬 Ask me about **C ,SQL**
+- 💬 Ask me about **C,SQL**
 
 - 📫 How to reach me **chaitanyakhairmode912@gmail.com**
 
