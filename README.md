@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Improving Skills**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C Programming**
 
-- 💬 Ask me about **C,SQL**
+- 💬 Ask me about **SQL**
 
 - 📫 How to reach me **chaitanyakhairmode912@gmail.com**
 
