@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairmodechaitanya912&label=Profile%20views&color=0e75b6&style=flat" alt="khairmodechaitanya912" /> </p>
 
-- 🔭 I’m currently working on **Improving Skills Set**
+- 🔭 I’m currently working on **Improving Skills**
 
 - 🌱 I’m currently learning **C Programming**
 
