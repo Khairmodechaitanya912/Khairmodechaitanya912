@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Improving Skills**
 
-- 🌱 I’m currently learning **C Programming CPP**
+- 🌱 I’m currently learning **C Programming ,CPP**
 
 - 💬 Ask me about **SQL**
 
