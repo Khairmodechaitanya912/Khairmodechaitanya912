@@ -20,7 +20,7 @@
 <a href="https://twitter.com/c_khairmode912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c_khairmode912" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@chaitanyakhairmode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@chaitanyakhairmode" height="30" width="40" /></a>
 <a href="https://fb.com/@chaitanyakhairmode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@chaitanyakhairmode" height="30" width="40" /></a>
-<a href="https://instagram.com/@chaitanyakhairmode_912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[@chaitanyakhairmode_912](https://www.instagram.com/chaitanyakhairmode_912/?igshid=OTk0YzhjMDVlZA%3D%3D)" height="30" width="40" /></a>
+<a href="https://instagram.com/@chaitanyakhairmode_912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@chaitanyakhairmode_912" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
