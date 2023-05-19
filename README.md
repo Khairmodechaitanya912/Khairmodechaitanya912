@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/c_khairmode912" target="blank"><img src="https://img.shields.io/twitter/follow/c_khairmode912?logo=twitter&style=for-the-badge" alt="c_khairmode912" /></a> </p>
 
-<img align="right" alt="coding" width=400 src="![image](https://github.com/Khairmodechaitanya912/Khairmodechaitanya912/assets/71939743/df9d6f67-4dd7-4daa-9ab0-7d7ee4ae0715)"/>
+<img align="right" alt="coding" width=400 src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932"/>
 
 - 🔭 I’m currently working on **Own Project**
 
