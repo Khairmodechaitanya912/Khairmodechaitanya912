@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Own Projects**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Web Technology**
 
-- 💬 Ask me about **C, CPP, Java**
+- 💬 Ask me about **C, CPP, Web**
 
 - 📫 How to reach me **chaitanyakhairmode912@gmail.com**
 
