@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **C, CPP, Web**
+- 💬 Ask me about **C, CPP & Web Technology**
 
 - 📫 How to reach me **chaitanyakhairmode912@gmail.com**
 
