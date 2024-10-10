@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Own Projects**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **C, CPP & Web Technology**
 
